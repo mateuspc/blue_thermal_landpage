@@ -1,11 +1,11 @@
 {
-    "name": "blue_thermal_landpage",
-    "short_name": "blue_thermal_landpage",
+    "name": "BlueThermal Plus — Flutter Bluetooth Printing",
+    "short_name": "BlueThermal Plus",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Bluethermal landpage",
+    "description": "Production-ready Flutter plugin for thermal printing over Bluetooth Low Energy (BLE) and Bluetooth Classic.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
